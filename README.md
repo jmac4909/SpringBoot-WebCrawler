@@ -3,7 +3,7 @@ Spring Boot demo of a web crawler parsing websites, storing content in DB, allow
 
 The general idea behind this project was to have a service parse a given URL for its text contents.
 Saving the parsed contents in a database of (word, frequency, site) tuples.
-Allowing queries to be made on the data to retrieve relevant pages.
+Then allowing queries to be made on the data to retrieve the relevant pages.
 
 The code I wrote is located under src/main/java/com/jmac/demo/controllers.
 
